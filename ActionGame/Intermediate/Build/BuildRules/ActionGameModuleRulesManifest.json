@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\dev\\project\\unreal\\Unreal5_ActionGame\\ActionGame\\Source\\ActionGame\\ActionGame.Build.cs",
+		"C:\\dev\\project\\unreal\\Unreal5_ActionGame\\ActionGame\\Source\\ActionGame.Target.cs",
+		"C:\\dev\\project\\unreal\\Unreal5_ActionGame\\ActionGame\\Source\\ActionGameEditor.Target.cs"
+	],
+	"EngineVersion": "5.6.0"
+}

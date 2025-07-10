@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\dev\\project\\unreal\\unreal5_actiongame\\actiongame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\actiongame\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\dev\\project\\unreal\\unreal5_actiongame\\actiongame\\intermediate\\build\\win64\\x64\\actiongameeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\dev\\project\\unreal\\unreal5_actiongame\\actiongame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\actiongame\\definitions.actiongame.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
